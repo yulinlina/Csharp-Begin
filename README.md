@@ -1,1 +1,1 @@
-ConsoleApp1
+This is a learnig note for c sharp
